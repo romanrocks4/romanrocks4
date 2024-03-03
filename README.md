@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Roman!
+- 👀 I’m interested in Python, IOS, and IOT.
+- 🌱 I’m currently learning C++ and IOT.
+- 💞️ I’m looking to collaborate on Anything!
+- 📫 How to reach me roman.shubin27@gmail.com
+- ⚡ Fun fact: One of my favorite hobbies is working on cars.
