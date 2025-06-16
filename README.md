@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roman!
-- 👀 I’m interested in Python, Climate tech, and IOT.
-- 🌱 I’m currently learning Climate technology and Systems design.
+- 👀 I’m interested in Python, front end, and IOT.
+- 🌱 I’m currently learning Cybersecurity.
 - 💞️ I’m looking to collaborate on Anything!
 - 📫 How to reach me roman.shubin27@gmail.com
 - ⚡ Fun fact: One of my favorite hobbies is working on cars.
